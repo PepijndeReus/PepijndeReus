@@ -7,6 +7,6 @@
 
 ## Repositories
 ### Thesis
-[This repo](https://github.com/PepijndeReus/Alliander_proj2/tree/main/Visualisation%20and%20Data) contains my thesis for my bachelor studies Artificial Intelligence at the University of Amsterdam.
+[This repo](https://github.com/PepijndeReus/ThesisAI) contains my thesis for my bachelor studies Artificial Intelligence at the University of Amsterdam.
 
 Furthermore I have some private reposotories with programming work I did for my bachelor studies.
