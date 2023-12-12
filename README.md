@@ -6,5 +6,5 @@
 - 🔖 Or check my [LinkedIn profile](https://nl.linkedin.com/in/pepijndereus)
 
 ## Repositories
-- [This repo](https://github.com/PepijndeReus/Privacy-Enhancing-ML) contains the code used for [my paper](https://scholar.google.com/scholar?oi=bibs&hl=nl&cluster=18290856347761732206) at the international conference on [ICT 4 sustainability](https://conf.researchr.org/home/ict4s-2023).
-- [This repo](https://github.com/PepijndeReus/AMdEX_AF-KLM_Demo) contains the notebooks I used in a demo for the AI for sustainability initiave by Air France - KLM.
+- [This repo](https://github.com/PepijndeReus/Privacy-Enhancing-ML) contains the code used for [my paper](https://ieeexplore.ieee.org/document/10292174) at the international conference on [ICT 4 sustainability](https://conf.researchr.org/home/ict4s-2023).
+- [This repo](https://github.com/PepijndeReus/AMdEX_AF-KLM_Demo) contains the notebooks I used in a demo for the AI for sustainability initiative by Air France - KLM.
