@@ -6,6 +6,7 @@
 - 🔖 Or check my [LinkedIn profile](https://nl.linkedin.com/in/pepijndereus)
 
 ## Repositories
+- [This repo](https://github.com/PepijndeReus/MasterThesis) contains the code for my master thesis: Exploring energy consumption, inference time and accuracy in code Large Language Models.
 - [This repo](https://github.com/PepijndeReus/Privacy-Enhancing-ML) contains the code used for [my paper](https://ieeexplore.ieee.org/document/10292174) at the international conference on [ICT 4 sustainability](https://conf.researchr.org/home/ict4s-2023).
 - [This repo](https://github.com/PepijndeReus/AMdEX_AF-KLM_Demo) contains the notebooks I used in a demo for the AI for sustainability initiative by Air France - KLM.
 - [This repo](https://github.com/PepijndeReus/AF-KLM) contains the code used for my research project with AF-KLM. [The report](https://github.com/PepijndeReus/AF-KLM/blob/main/Report.pdf) is also available online.
