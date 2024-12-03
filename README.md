@@ -1,7 +1,8 @@
 # Welcome!
 
 - 👋 Hi, my name is Pepijn de Reus
-- 📚 I’m currently studying [Artificial Intelligence](https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html) at the University of Amsterdam
+- 📚 I’m a graduate of the master of [Artificial Intelligence](https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html) at the University of Amsterdam
+- 👀 Currently, I am exploring what next step to take in my career. Preferably a role where I can make societal impact.
 - 📧 Reach me via [mail](mailto:pepijn.dereus@proton.me)
 - 🔖 Or check my [LinkedIn profile](https://nl.linkedin.com/in/pepijndereus)
 
